@@ -4,6 +4,16 @@
 Holaa, mi nombre es Cecilia. Soy estudiante de Desarrollo de Aplicaciones Web.
 </p>
 
+<h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceciliacortess&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&&bg_color=F3D3E7" />
+    </a>
+</div>
+
+## Sobre mí 🤗👩🏻‍💻🎓🎮🎧💻💸📊📈
+
 ## Lenguajes y herramientas:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -25,5 +35,5 @@ Holaa, mi nombre es Cecilia. Soy estudiante de Desarrollo de Aplicaciones Web.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r34t6bg2pibdjr3v4xs3tlipcq&cover_image=true&theme=default&show_offline=false&background_color=313031&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Cecilia's stats](https://github-readme-stats.vercel.app/api?username=ceciliacortess&show_icons=true)
+
 
