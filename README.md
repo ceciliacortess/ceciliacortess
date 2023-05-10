@@ -25,7 +25,7 @@ Holaa🤗, mi nombre es Cecilia. <br> Soy una chica de Valencia (España) con in
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![NeatBeans](https://img.shields.io/badge/-NeatBeans-23F05032?style=flat&logo=neatbeans)
+![NetBeans](https://img.shields.io/badge/-NetBeans-23F05032?style=flat&logo=netbeans)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 <img src="https://img.shields.io/badge/ubuntu-%23F05032.svg?&style=flat&logo=ubuntu&logoColor=white">
 
